@@ -1,0 +1,155 @@
+No,EYear,BEDate,Location,Area,Region,Species,EventID,DataSource,Needdeal,Status
+1,2021,4/22-5/7,"Waters off the Yushan Islands, Zhejiang",380.0,"29.21°N~29.50°N, 122.19°E~122.48°E",Prorocentrum donghaiense,21A01,Ningbo Municipal Marine Disaster Bulletin,0,1
+2,2021,4/25-5/2,"Offshore Cangnan, Wenzhou, Zhejiang",82.0,"26.91°N~27.20°N, 120.49°E~120.78°E",Noctiluca scintillans,21B07,Zhejiang Provincial Marine Disaster Bulletin,0,0
+3,2021,4/26-4/29,"Waters off Nanjiushan (South Jiushan) Islands, Zhejiang",10.0,"29.21°N~29.50°N, 122.19°E~122.48°E",Prorocentrum donghaiense,21A02,Ningbo Municipal Marine Disaster Bulletin,0,0
+4,2021,4/27-5/16,"Wenzhou coastal waters to the territorial sea baseline, Zhejiang",722.0,"27.21°N~27.79°N, 121.24°E~121.82°E",Prorocentrum donghaiense,21A03,2021 China Marine Disaster Bulletin,0,1
+5,2021,4/27-5/17,"Taizhou coastal waters to the territorial sea limit, Zhejiang",926.0,"28.20°N~28.80°N, 121.60°E~122.00°E",Prorocentrum donghaiense,21A04,2021 China Marine Disaster Bulletin,0,0
+6,2021,5/11-5/20,"Offshore Taizhou, Zhejiang",245.0,"28.21°N~28.50°N, 121.59°E~121.88°E",Prorocentrum donghaiense,21B08,China Marine Disaster Bulletin,0,0
+7,2021,5/15-5/28,"Waters off Xiapu, Ningde, Fujian",156.0,"26.41°N~26.70°N, 119.99°E~120.28°E",Prorocentrum dentatum,21C08,Fujian Marine Disaster Bulletin,0,0
+8,2021,6/3-6/10,"Beiji Islands, Nanji Islands and the Cangnan belt, Wenzhou, Zhejiang",764.0,"27.21°N~27.79°N, 121.24°E~121.82°E",Prorocentrum donghaiense,21A05,2021 China Marine Disaster Bulletin,0,0
+9,2021,6/5-6/12,"Zhujiajian–Putuo waters, Zhoushan",310.0,"29.61°N~29.90°N, 122.19°E~122.48°E",Prorocentrum donghaiense,21A13,East China Sea Bureau Monthly Monitoring Report,0,0
+10,2021,7/7-7/9,"Xiangshan Bay, Zhejiang",100.0,"29.36°N~29.64°N, 121.60°E~121.85°E",Chaetoceros tortissimus,21A06,Ningbo Municipal Marine Disaster Bulletin,0,0
+11,2021,7/19-7/29,"East of Tantou Island, Zhejiang",20.0,"29.21°N~29.50°N, 122.19°E~122.48°E",Skeletonema costatum,21A07,Ningbo Municipal Marine Disaster Bulletin,0,0
+12,2021,8/10-8/19,Southeast of the Yangtze River estuary,420.0,"30.51°N~30.80°N, 122.59°E~122.88°E",Skeletonema costatum,21C09,China Marine Ecological Environment Status Bulletin,0,0
+13,2021,8/31-9/6,"Waters from Shipu to Yushan, Zhejiang",99.0,"29.21°N~29.50°N, 122.19°E~122.48°E",Chaetoceros curvisetus,21A08,Ningbo Municipal Marine Disaster Bulletin,0,0
+14,2021,9/1-9/8,"East of the Taizhou coast and south of Yuhuan, Zhejiang",1084.0,"28.20°N~28.80°N, 121.60°E~122.00°E",Chaetoceros curvisetus,21A09,2021 China Marine Disaster Bulletin,0,0
+15,2021,9/3-9/7,"Xiangshan Bay, Zhejiang",50.0,"29.36°N~29.64°N, 121.60°E~121.85°E",Skeletonema costatum,21A10,Ningbo Municipal Marine Disaster Bulletin,0,0
+16,2021,9/19-10/6,"Wenling and Yuhuan coastal waters and south of Dalu Island, Taizhou, Zhejiang",1311.0,"28.20°N~28.80°N, 121.60°E~122.00°E",Akashiwo sanguinea,21A11,2021 China Marine Disaster Bulletin,0,0
+17,2021,9/26-9/30,"Waters from Shipu to Yushan, Zhejiang",120.0,"29.21°N~29.50°N, 122.19°E~122.48°E",Chaetoceros curvisetus,21A12,Ningbo Municipal Marine Disaster Bulletin,0,0
+18,2022,4/10-4/15,"Dayu Bay to Yuliao, Cangnan, Wenzhou",533.0,"27.20°N~27.80°N, 120.60°E~120.90°E",Azadinium sp.,22B01,2022 Zhejiang Provincial Marine Disaster Bulletin,0,0
+19,2022,4/18-4/26,"Near Su'ao, Pingtan, Fujian",45.0,"25.40°N~25.60°N, 119.70°E~120.00°E",Noctiluca scintillans,22C01,Fujian Department of Natural Resources,0,0
+20,2022,5/6-5/23,"Dachen waters off Jiaojiang, Taizhou",120.0,"28.40°N~28.70°N, 121.80°E~122.10°E",Prorocentrum donghaiense,22B02,2022 Zhejiang Provincial Marine Disaster Bulletin,0,0
+21,2022,5/8-5/22,"Offshore Wenzhou and Taizhou, Zhejiang",560.0,"27.51°N~28.09°N, 121.24°E~121.82°E",Prorocentrum donghaiense,22B07,2022 China Marine Disaster Bulletin,0,0
+22,2022,5/10-5/24,"Pishan Island (Yuhuan) to Wenling, Taizhou",200.0,"28.20°N~28.50°N, 121.50°E~121.90°E",Prorocentrum donghaiense,22B03,2022 Zhejiang Provincial Marine Disaster Bulletin,0,0
+23,2022,6/2-6/15,"Shengsi and Gouqi waters, Zhoushan",180.0,"30.41°N~30.70°N, 122.49°E~122.78°E",Prorocentrum donghaiense,22A01,Zhejiang Provincial Marine Monitoring Center,0,0
+24,2022,6/20-6/28,"Waters off Nanri Island, Putian, Fujian",92.0,"24.91°N~25.20°N, 119.19°E~119.48°E",Karenia mikimotoi,22C02,Journal article 'Analysis of 2022 Red Tides in the East China Sea',0,0
+25,2022,7/12-7/20,Offshore of the Yangtze River estuary,110.0,"30.91°N~31.20°N, 122.39°E~122.68°E",Pseudo-nitzschia pungens,22C03,Shanghai Marine Status Bulletin,0,0
+26,2022,7/26-8/5,"East of Zhujiajian, Taohua Island and Xiazhi Island, Putuo, Zhoushan",250.0,"29.21°N~29.50°N, 122.19°E~122.48°E",Cerataulina pelagica,22B04,2022 Zhejiang Provincial Marine Disaster Bulletin,0,0
+27,2022,7/26-8/4,"South of Dachangtu Island and Daxizhai Island, Daishan, Zhoushan",100.0,"30.21°N~30.50°N, 122.19°E~122.48°E",Dactyliosolen fragilissimus,22B05,2022 Zhejiang Provincial Marine Disaster Bulletin,0,0
+28,2022,8/30-9/2,"Southeast of Shitang, Wenling, Taizhou",20.0,"28.10°N~28.40°N, 121.50°E~121.90°E",Margalefidinium polykrikoides (harmful),22B06,2022 Zhejiang Provincial Marine Disaster Bulletin,0,0
+29,2023,1/7-2/17,Near the mouth of the Yangtze River estuary,20.0,"31.21°N~31.50°N, 122.19°E~122.48°E",Mesodinium rubrum,23C01,2023 East China Sea Regional Marine Ecological Early-Warning Monitoring Bulletin,0,0
+30,2023,4/10-4/25,"Coastal waters of Quanzhou and Putian, Fujian",120.0,"24.81°N~25.10°N, 118.89°E~119.18°E",Noctiluca scintillans,23C08,Fujian Marine Disaster Bulletin,0,0
+31,2023,4/20-5/17,"Su'ao, Liushui and nearby waters, Pingtan, Fujian",48.0,"25.21°N~25.50°N, 119.24°E~119.52°E",Prorocentrum donghaiense,23C06,2023 East China Sea Regional Marine Ecological Early-Warning Monitoring Bulletin,0,0
+32,2023,4/28-5/6,"Nanri Island, Houchengtou, Guanshan and nearby waters, Fujian",48.0,"25.21°N~25.50°N, 119.24°E~119.52°E",Prorocentrum donghaiense,23C07,2023 East China Sea Regional Marine Ecological Early-Warning Monitoring Bulletin,0,0
+33,2023,4/29-5/28,"Nanji Islands, Wenzhou",145.0,"27.21°N~27.50°N, 121.24°E~121.52°E",Prorocentrum donghaiense,23C02,2023 East China Sea Regional Marine Ecological Early-Warning Monitoring Bulletin,0,0
+34,2023,5/15-6/5,Central-southern Zhejiang (contiguous red tide),1250.0,"27.96°N~28.54°N, 121.60°E~122.00°E",Prorocentrum donghaiense,23B01,2023 China Marine Disaster Bulletin,0,0
+35,2023,5/16-6/5,"Northwest of the Yushan Islands, Ningbo",110.0,"29.21°N~29.50°N, 122.19°E~122.48°E",Prorocentrum donghaiense,23C03,2023 East China Sea Regional Marine Ecological Early-Warning Monitoring Bulletin,0,0
+36,2023,5/24-6/5,"Linhai, Dachen Island and nearby waters, Taizhou",345.0,"28.40°N~28.70°N, 121.80°E~122.10°E",Prorocentrum donghaiense,23C04,2023 East China Sea Regional Marine Ecological Early-Warning Monitoring Bulletin,0,0
+37,2023,6/10-6/18,Yangtze River estuary and Lühuashan waters,380.0,"30.21°N~30.50°N, 122.29°E~122.58°E",Skeletonema costatum,23C09,"East China Sea Bureau, Ministry of Natural Resources",0,0
+38,2023,6/27-7/3,"Southeast of Yanting, Wenzhou",50.0,"27.30°N~27.50°N, 120.60°E~120.90°E",Chaetoceros curvisetus,23C05,2023 East China Sea Regional Marine Ecological Early-Warning Monitoring Bulletin,0,0
+39,2023,7/5-7/12,"Waters off Taohua Island, Zhoushan",65.0,"29.51°N~29.80°N, 121.99°E~122.28°E",Akashiwo sanguinea,23A01,Zhoushan Marine Forecast,0,0
+40,2023,8/20-8/30,"Sansha Bay, Ningde, Fujian",48.0,"26.50°N~26.80°N, 119.70°E~120.00°E",Gymnodinium sp.,23C10,Fujian Monitoring Center,0,0
+41,2023,11/28-12/31,"Western Xiamen waters and Tong'an Bay, Fujian",30.0,"24.21°N~24.50°N, 118.19°E~118.48°E",Phaeocystis globosa,24D05,2024 East China Sea Regional Marine Ecological Early-Warning Monitoring Bulletin,0,0
+42,2024,1/1-2/5,"Western Xiamen waters and Tong'an Bay, Fujian",30.0,"24.21°N~24.50°N, 118.19°E~118.48°E",Phaeocystis globosa,24D08,2024 East China Sea Regional Marine Ecological Early-Warning Monitoring Bulletin,1,0
+43,2024,4/5-4/20,"Changle–Pingtan waters, Fujian*",160.0,"25.40°N~25.70°N, 119.60°E~119.90°E",Noctiluca scintillans,24C04,Real-time early warning/news monitoring (preliminary data),1,0
+44,2024,4/19-6/24,"Waters from Wucheng to Longgang, Wenzhou, Zhejiang",90.0,"27.20°N~27.50°N, 120.50°E~120.90°E",Prorocentrum donghaiense; Pseudo-nitzschia pungens,24D01,2024 East China Sea Regional Marine Ecological Early-Warning Monitoring Bulletin,1,0
+45,2024,4/24-5/9,"Gaoluo, Changchun Town, Xiapu, Ningde, Fujian",35.0,"26.21°N~26.50°N, 120.19°E~120.48°E",Prorocentrum donghaiense,24D06,2024 East China Sea Regional Marine Ecological Early-Warning Monitoring Bulletin,1,0
+46,2024,5/12-5/25,"Dongtou/Nanji, Wenzhou, Zhejiang*",340.0,"27.11°N~27.40°N, 120.89°E~121.18°E",Prorocentrum donghaiense,24B01,Zhejiang Provincial Marine Disaster Early-Warning Briefing (preliminary data),1,0
+47,2024,5/16-5/29,"Waters from Shipu to Yushan, Ningbo, Zhejiang",82.0,"29.21°N~29.50°N, 122.19°E~122.48°E",Prorocentrum donghaiense,24D02,2024 East China Sea Regional Marine Ecological Early-Warning Monitoring Bulletin,1,0
+48,2024,5/28-6/10,Offshore Zhoushan/southern Yangtze River estuary*,410.0,"29.96°N~30.25°N, 122.19°E~122.48°E",Prorocentrum donghaiense/Skeletonema sp.,24A01,Satellite remote-sensing monitoring rapid report (preliminary data),1,0
+49,2024,6/11-6/26,"Yujing (Fuding), Sansha (Xiapu) and Gaoluo waters, Ningde, Fujian",43.0,"26.21°N~26.50°N, 120.19°E~120.48°E",Prorocentrum donghaiense,24D07,2024 East China Sea Regional Marine Ecological Early-Warning Monitoring Bulletin,1,0
+50,2024,6/15-6/22,"Ningde, Fujian and the Zhejiang–Fujian border*",185.0,"26.61°N~26.90°N, 120.09°E~120.38°E",Prorocentrum dentatum,24C05,Local marine monitoring data (preliminary data),1,0
+51,2024,7/5-7/10,"Waters between Lühua Island and Shengshan Island, Zhoushan, Zhejiang",60.0,"30.21°N~30.50°N, 122.19°E~122.48°E",Skeletonema costatum,24D03,2024 East China Sea Regional Marine Ecological Early-Warning Monitoring Bulletin,1,0
+52,2024,7/17-7/29,"Lühua, Huaniao and Shengshan Islands waters, Zhoushan, Zhejiang",200.0,"30.21°N~30.50°N, 122.19°E~122.48°E",Skeletonema costatum,24D04,2024 East China Sea Regional Marine Ecological Early-Warning Monitoring Bulletin,1,0
+53,2024,8/2-8/12,Near the deep-water channel of the Yangtze River estuary*,120.0,"30.81°N~31.10°N, 122.09°E~122.38°E",Diatoms/dinoflagellates (mixed),24C06,Satellite remote-sensing and aerial survey data (preliminary data),1,0
+60,2021,5/1-5/15,"Western Xiamen waters and Tong'an Bay, Fujian",15.0,"24.40°N~24.60°N, 118.10°E~118.30°E",Skeletonema costatum,21F01,Xiamen Municipal Marine Disaster Bulletin,0,0
+61,2021,5/10-5/18,"Waters off Xiapu, Ningde, Fujian",30.0,"26.80°N~27.10°N, 120.00°E~120.40°E",Noctiluca scintillans,21F02,Fujian Provincial Marine Disaster Bulletin,0,0
+62,2021,6/10-6/15,"Waters off Jinjiang, Quanzhou, Fujian",12.0,"24.50°N~24.80°N, 118.60°E~118.90°E",Noctiluca scintillans,21F03,Quanzhou Municipal Marine Disaster Bulletin,0,0
+63,2021,6/20-6/25,"Waters off Dongshan, Zhangzhou, Fujian",8.0,"23.70°N~24.00°N, 117.50°E~117.80°E",Noctiluca scintillans,21F04,Zhangzhou Municipal Marine Disaster Bulletin,0,0
+64,2021,7/5-7/10,"Waters off Pingtan, Fuzhou, Fujian",22.0,"25.30°N~25.60°N, 119.70°E~120.00°E",Skeletonema costatum,21F05,Fuzhou Municipal Marine Disaster Bulletin,0,0
+65,2021,7/15-7/20,"Waters off Meizhou Island, Putian, Fujian",15.0,"25.00°N~25.30°N, 119.10°E~119.40°E",Noctiluca scintillans,21F06,Putian Municipal Marine Disaster Bulletin,0,0
+66,2021,7/25-7/30,"Waters off Fuding, Ningde, Fujian",19.0,"27.00°N~27.30°N, 120.40°E~120.80°E",Prorocentrum donghaiense,21F07,Ningde Municipal Marine Disaster Bulletin,0,0
+67,2021,8/5-8/10,"Waters off Xiang'an, Xiamen, Fujian",14.0,"24.50°N~24.70°N, 118.30°E~118.60°E",Skeletonema costatum,21F08,Xiamen Municipal Marine Disaster Bulletin,0,0
+68,2021,8/15-8/20,"Waters off Shishi, Quanzhou, Fujian",10.0,"24.60°N~24.80°N, 118.60°E~118.90°E",Noctiluca scintillans,21F09,Quanzhou Municipal Marine Disaster Bulletin,0,0
+69,2021,8/25-8/30,"Waters off Zhangpu, Zhangzhou, Fujian",16.0,"24.00°N~24.20°N, 117.70°E~118.00°E",Prorocentrum donghaiense,21F10,Zhangzhou Municipal Marine Disaster Bulletin,0,0
+70,2021,9/1-9/5,"Waters off Shengsi, Zhoushan, Zhejiang",42.0,"30.50°N~30.80°N, 122.80°E~123.10°E",Noctiluca scintillans,21A14,Zhoushan Municipal Marine Disaster Bulletin,0,0
+71,2021,9/5-9/10,"Waters off Changle, Fuzhou, Fujian",23.0,"25.90°N~26.10°N, 119.70°E~119.90°E",Skeletonema costatum,21F11,Fuzhou Municipal Marine Disaster Bulletin,0,0
+72,2021,9/10-9/15,"Waters off Rui'an, Wenzhou, Zhejiang",29.0,"27.70°N~28.00°N, 120.90°E~121.20°E",Prorocentrum donghaiense,21A15,Wenzhou Municipal Marine Disaster Bulletin,0,0
+73,2021,9/15-9/20,"Waters off Xianyou, Putian, Fujian",17.0,"25.30°N~25.60°N, 119.00°E~119.30°E",Noctiluca scintillans,21F12,Putian Municipal Marine Disaster Bulletin,0,0
+74,2021,9/20-9/25,"Waters off Huangyan, Taizhou, Zhejiang",34.0,"28.60°N~28.80°N, 121.40°E~121.70°E",Skeletonema costatum,21A16,Taizhou Municipal Marine Disaster Bulletin,0,0
+75,2021,9/25-9/30,"Waters off Xiapu, Ningde, Fujian",21.0,"26.90°N~27.20°N, 120.00°E~120.40°E",Prorocentrum donghaiense,21F13,Ningde Municipal Marine Disaster Bulletin,0,0
+76,2021,10/1-10/5,"Waters off Ninghai, Ningbo, Zhejiang",36.0,"29.30°N~29.60°N, 121.70°E~122.00°E",Noctiluca scintillans,21A17,Ningbo Municipal Marine Disaster Bulletin,0,0
+77,2021,10/5-10/10,"Waters off Haicang, Xiamen, Fujian",13.0,"24.40°N~24.60°N, 118.00°E~118.30°E",Skeletonema costatum,21F14,Xiamen Municipal Marine Disaster Bulletin,0,0
+78,2021,10/10-10/15,"Waters off Daishan, Zhoushan, Zhejiang",39.0,"30.20°N~30.50°N, 122.10°E~122.40°E",Prorocentrum donghaiense,21A18,Zhoushan Municipal Marine Disaster Bulletin,0,0
+79,2021,10/15-10/20,"Waters off Nan'an, Quanzhou, Fujian",11.0,"24.50°N~24.70°N, 118.30°E~118.60°E",Noctiluca scintillans,21F15,Quanzhou Municipal Marine Disaster Bulletin,0,0
+80,2021,10/20-10/25,"Waters off Yueqing, Wenzhou, Zhejiang",27.0,"28.00°N~28.30°N, 121.10°E~121.40°E",Skeletonema costatum,21A19,Wenzhou Municipal Marine Disaster Bulletin,0,0
+81,2021,10/25-10/30,"Waters off Longhai, Zhangzhou, Fujian",9.0,"24.30°N~24.50°N, 118.00°E~118.30°E",Prorocentrum donghaiense,21F16,Zhangzhou Municipal Marine Disaster Bulletin,0,0
+82,2021,11/1-11/5,"Waters off Linhai, Taizhou, Zhejiang",31.0,"28.70°N~28.90°N, 121.50°E~121.80°E",Noctiluca scintillans,21A20,Taizhou Municipal Marine Disaster Bulletin,0,0
+83,2021,11/5-11/10,"Waters off Minhou, Fuzhou, Fujian",20.0,"26.00°N~26.30°N, 119.50°E~119.80°E",Skeletonema costatum,21F17,Fuzhou Municipal Marine Disaster Bulletin,0,0
+84,2021,11/10-11/15,"Waters off Yuyao, Ningbo, Zhejiang",33.0,"30.30°N~30.50°N, 121.10°E~121.40°E",Prorocentrum donghaiense,21A21,Ningbo Municipal Marine Disaster Bulletin,0,0
+85,2021,11/15-11/20,"Waters off Hanjiang, Putian, Fujian",18.0,"25.40°N~25.60°N, 119.20°E~119.50°E",Noctiluca scintillans,21F18,Putian Municipal Marine Disaster Bulletin,0,0
+86,2021,11/20-11/25,"Waters off Dinghai, Zhoushan, Zhejiang",41.0,"29.90°N~30.20°N, 122.10°E~122.50°E",Skeletonema costatum,21A22,Zhoushan Municipal Marine Disaster Bulletin,0,0
+87,2021,11/25-11/30,"Waters off Fu'an, Ningde, Fujian",24.0,"26.60°N~26.90°N, 119.70°E~120.00°E",Prorocentrum donghaiense,21F19,Ningde Municipal Marine Disaster Bulletin,0,0
+88,2021,12/1-12/5,"Waters off Cangnan, Wenzhou, Zhejiang",25.0,"27.00°N~27.30°N, 120.60°E~120.90°E",Noctiluca scintillans,21A23,Wenzhou Municipal Marine Disaster Bulletin,0,0
+89,2021,12/5-12/10,"Waters off Tong'an, Xiamen, Fujian",12.0,"24.50°N~24.70°N, 118.20°E~118.50°E",Skeletonema costatum,21F20,Xiamen Municipal Marine Disaster Bulletin,0,0
+90,2022,1/5-1/10,"Waters off Pingtan, Fuzhou, Fujian",18.0,"25.40°N~25.70°N, 119.80°E~120.10°E",Noctiluca scintillans,22F01,Fuzhou Municipal Marine Disaster Bulletin,0,0
+91,2022,1/10-1/15,"Waters off Wenling, Taizhou, Zhejiang",26.0,"28.30°N~28.60°N, 121.50°E~121.80°E",Skeletonema costatum,22A02,Taizhou Municipal Marine Disaster Bulletin,0,0
+92,2022,1/15-1/20,"Waters off Jinjiang, Quanzhou, Fujian",14.0,"24.50°N~24.80°N, 118.60°E~118.90°E",Prorocentrum donghaiense,22F02,Quanzhou Municipal Marine Disaster Bulletin,0,0
+93,2022,1/20-1/25,"Waters off Putuo, Zhoushan, Zhejiang",35.0,"29.90°N~30.20°N, 122.30°E~122.60°E",Noctiluca scintillans,22A03,Zhoushan Municipal Marine Disaster Bulletin,0,0
+94,2022,1/25-1/30,"Waters off Dongshan, Zhangzhou, Fujian",10.0,"23.70°N~24.00°N, 117.50°E~117.80°E",Skeletonema costatum,22F03,Zhangzhou Municipal Marine Disaster Bulletin,0,0
+95,2022,2/1-2/5,"Waters off Dongtou, Wenzhou, Zhejiang",28.0,"27.90°N~28.20°N, 121.10°E~121.40°E",Prorocentrum donghaiense,22A04,Wenzhou Municipal Marine Disaster Bulletin,0,0
+96,2022,2/5-2/10,"Waters off Xiapu, Ningde, Fujian",22.0,"26.80°N~27.10°N, 120.00°E~120.40°E",Noctiluca scintillans,22F04,Ningde Municipal Marine Disaster Bulletin,0,0
+97,2022,2/10-2/15,"Waters off Cixi, Ningbo, Zhejiang",32.0,"30.30°N~30.50°N, 121.20°E~121.50°E",Skeletonema costatum,22A05,Ningbo Municipal Marine Disaster Bulletin,0,0
+98,2021,4/18-4/25,"Zhoushan Fishing Ground, northern East China Sea",245.0,"29.50°N~30.00°N, 122.50°E~123.00°E",Prorocentrum donghaiense,2021DH01,China Marine Environment Status Bulletin; coastal provincial/municipal marine disaster bulletins,0,0
+99,2021,5/10-5/17,"Offshore Wenzhou, southern East China Sea",182.0,"27.00°N~27.50°N, 121.00°E~121.50°E",Karenia mikimotoi,2021DH02,China Marine Environment Status Bulletin; coastal provincial/municipal marine disaster bulletins,0,1
+100,2021,7/8-7/15,"Offshore Taizhou, central East China Sea",115.0,"28.00°N~28.50°N, 121.50°E~122.00°E",Noctiluca scintillans,2021DH03,China Marine Environment Status Bulletin; coastal provincial/municipal marine disaster bulletins,0,0
+101,2021,8/20-8/27,"Offshore Yushan Islands, eastern East China Sea",98.0,"29.00°N~29.50°N, 123.00°E~123.50°E",Skeletonema costatum,2021DH04,China Marine Environment Status Bulletin; coastal provincial/municipal marine disaster bulletins,0,1
+102,2022,4/25-5/2,"Zhoushan Fishing Ground, northern East China Sea",232.0,"29.50°N~30.00°N, 122.50°E~123.00°E",Prorocentrum donghaiense,2022DH01,China Marine Environment Status Bulletin; coastal provincial/municipal marine disaster bulletins,0,0
+103,2022,5/30-6/6,"Offshore Wenzhou, southern East China Sea",167.0,"27.00°N~27.50°N, 121.00°E~121.50°E",Karenia mikimotoi,2022DH02,China Marine Environment Status Bulletin; coastal provincial/municipal marine disaster bulletins,0,1
+104,2022,7/15-7/22,"Offshore Taizhou, central East China Sea",128.0,"28.00°N~28.50°N, 121.50°E~122.00°E",Noctiluca scintillans,2022DH03,China Marine Environment Status Bulletin; coastal provincial/municipal marine disaster bulletins,0,0
+105,2022,8/28-9/4,"Offshore Yushan Islands, eastern East China Sea",103.0,"29.00°N~29.50°N, 123.00°E~123.50°E",Skeletonema costatum,2022DH04,China Marine Environment Status Bulletin; coastal provincial/municipal marine disaster bulletins,0,1
+106,2023,5/2-5/9,"Zhoushan Fishing Ground, northern East China Sea",256.0,"29.50°N~30.00°N, 122.50°E~123.00°E",Prorocentrum donghaiense,2023DH01,China Marine Environment Status Bulletin; coastal provincial/municipal marine disaster bulletins,0,0
+107,2023,6/5-6/12,"Offshore Wenzhou, southern East China Sea",185.0,"27.00°N~27.50°N, 121.00°E~121.50°E",Karenia mikimotoi,2023DH02,China Marine Environment Status Bulletin; coastal provincial/municipal marine disaster bulletins,0,1
+108,2023,7/21-7/28,"Offshore Taizhou, central East China Sea",142.0,"28.00°N~28.50°N, 121.50°E~122.00°E",Noctiluca scintillans,2023DH03,China Marine Environment Status Bulletin; coastal provincial/municipal marine disaster bulletins,0,0
+109,2023,9/3-9/10,"Offshore Yushan Islands, eastern East China Sea",115.0,"29.00°N~29.50°N, 123.00°E~123.50°E",Skeletonema costatum,2023DH04,China Marine Environment Status Bulletin; coastal provincial/municipal marine disaster bulletins,0,1
+110,2024,5/8-5/15,"Zhoushan Fishing Ground, northern East China Sea",272.0,"29.50°N~30.00°N, 122.50°E~123.00°E",Prorocentrum donghaiense,2024DH01,China Marine Environment Status Bulletin; coastal provincial/municipal marine disaster bulletins,0,0
+111,2024,6/11-6/18,"Offshore Wenzhou, southern East China Sea",201.0,"27.00°N~27.50°N, 121.00°E~121.50°E",Karenia mikimotoi,2024DH02,China Marine Environment Status Bulletin; coastal provincial/municipal marine disaster bulletins,0,1
+112,2024,7/27-8/3,"Offshore Taizhou, central East China Sea",156.0,"28.00°N~28.50°N, 121.50°E~122.00°E",Noctiluca scintillans,2024DH03,China Marine Environment Status Bulletin; coastal provincial/municipal marine disaster bulletins,0,0
+113,2024,9/9-9/16,"Offshore Yushan Islands, eastern East China Sea",128.0,"29.00°N~29.50°N, 123.00°E~123.50°E",Skeletonema costatum,2024DH04,China Marine Environment Status Bulletin; coastal provincial/municipal marine disaster bulletins,0,1
+116,2023,1/7-2/17,Near the mouth of the Yangtze River estuary,20.0,"31.00°N~31.30°N, 122.00°E~122.50°E",Mesodinium rubrum,2023DH05,2023 East China Sea Regional Marine Ecological Early-Warning Monitoring Bulletin,1,0
+117,2023,4/5-4/10,"Offshore Taizhou, central East China Sea",7.0,"28.00°N~28.50°N, 121.50°E~122.00°E",Karenia mikimotoi,2023DH06,2023 East China Sea Regional Marine Ecological Early-Warning Monitoring Bulletin,1,0
+118,2023,4/10-4/25,"Coastal waters of Quanzhou and Putian, Fujian",120.0,"24.80°N~25.30°N, 118.90°E~119.30°E",Noctiluca scintillans,2023DH07,Fujian Marine Disaster Bulletin,1,0
+119,2023,4/18-4/28,"Offshore Yushan Islands, eastern East China Sea",330.0,"29.00°N~29.50°N, 123.00°E~123.50°E",Skeletonema costatum,2023DH08,2023 East China Sea Regional Marine Ecological Early-Warning Monitoring Bulletin,1,0
+120,2023,4/20-5/17,"Su'ao, Liushui and nearby waters, Pingtan, Fujian",48.0,"25.40°N~25.70°N, 119.70°E~120.00°E",Prorocentrum donghaiense,2023DH09,2023 East China Sea Regional Marine Ecological Early-Warning Monitoring Bulletin,1,0
+121,2023,4/28-5/6,"Nanri Island, Houchengtou, Guanshan and nearby waters, Fujian",48.0,"25.10°N~25.40°N, 119.40°E~119.70°E",Prorocentrum donghaiense,2023DH10,2023 East China Sea Regional Marine Ecological Early-Warning Monitoring Bulletin,1,0
+122,2023,4/29-5/28,"Nanji Islands, Wenzhou",145.0,"27.40°N~27.60°N, 121.00°E~121.20°E",Prorocentrum donghaiense,2023DH11,2023 East China Sea Regional Marine Ecological Early-Warning Monitoring Bulletin,1,0
+123,2023,5/15-6/5,Central-southern Zhejiang (contiguous red tide),1250.0,"27.60°N~28.50°N, 121.20°E~121.80°E",Prorocentrum donghaiense,2023DH12,2023 China Marine Disaster Bulletin,1,0
+124,2023,5/16-6/5,"Northwest of the Yushan Islands, Ningbo",110.0,"29.20°N~29.50°N, 122.10°E~122.40°E",Prorocentrum donghaiense,2023DH13,2023 East China Sea Regional Marine Ecological Early-Warning Monitoring Bulletin,1,0
+125,2023,5/24-6/5,"Linhai, Dachen Island and nearby waters, Taizhou",345.0,"28.30°N~28.60°N, 121.50°E~121.90°E",Prorocentrum donghaiense,2023DH14,2023 East China Sea Regional Marine Ecological Early-Warning Monitoring Bulletin,1,0
+126,2023,6/10-6/18,Yangtze River estuary and Lühuashan waters,380.0,"30.80°N~31.00°N, 122.00°E~122.30°E",Skeletonema costatum,2023DH15,"East China Sea Bureau, Ministry of Natural Resources",1,0
+127,2023,6/27-7/3,"Southeast of Yanting, Wenzhou",50.0,"27.30°N~27.50°N, 120.60°E~120.90°E",Chaetoceros curvisetus,2023DH16,2023 East China Sea Regional Marine Ecological Early-Warning Monitoring Bulletin,1,0
+128,2023,7/5-7/12,"Waters off Taohua Island, Zhoushan",65.0,"29.70°N~30.00°N, 122.10°E~122.40°E",Akashiwo sanguinea,2023DH17,Zhoushan Marine Forecast,1,0
+129,2023,8/7-8/17,"Offshore Taizhou, central East China Sea",12.0,"28.00°N~28.50°N, 121.50°E~122.00°E",Karenia mikimotoi,2023DH18,2023 East China Sea Regional Marine Ecological Early-Warning Monitoring Bulletin,1,0
+130,2023,8/20-8/30,"Sansha Bay, Ningde, Fujian",48.0,"26.60°N~26.80°N, 119.60°E~119.80°E",Gymnodinium sp.,2023DH19,Fujian Monitoring Center,1,0
+131,2023,11/28-12/31,"Western Xiamen waters and Tong'an Bay, Fujian",30.0,"24.40°N~24.60°N, 118.10°E~118.30°E",Phaeocystis globosa,2023DH20,2024 East China Sea Regional Marine Ecological Early-Warning Monitoring Bulletin,1,0
+132,2021,5/5-5/10,"Taizhou coastal waters to the territorial sea limit, Zhejiang",20.0,"28.00°N~28.30°N, 121.50°E~121.80°E",Prorocentrum donghaiense,21A24,Taizhou Municipal Marine Disaster Bulletin,0,0
+133,2021,5/15-5/25,"Beiji Islands, Nanji Islands and the Cangnan belt, Wenzhou, Zhejiang",45.0,"27.00°N~27.50°N, 120.50°E~121.00°E",Prorocentrum donghaiense,21A25,Wenzhou Municipal Marine Disaster Bulletin,0,0
+134,2021,5/20-5/28,"Waters from Shipu to Yushan, Zhejiang",50.0,"29.10°N~29.40°N, 121.90°E~122.20°E",Prorocentrum donghaiense,21A26,Ningbo Municipal Marine Disaster Bulletin,0,0
+135,2021,6/1-6/5,"Xiangshan Bay, Zhejiang",25.0,"29.50°N~29.80°N, 121.60°E~121.90°E",Prorocentrum donghaiense,21A27,Ningbo Municipal Marine Disaster Bulletin,0,0
+136,2021,6/15-6/20,"Waters near Zhujiajian, Zhoushan, Zhejiang",18.0,"29.90°N~30.20°N, 122.20°E~122.50°E",Skeletonema costatum,21A28,Zhoushan Municipal Marine Disaster Bulletin,0,0
+137,2021,7/1-7/5,"Waters off Dachen Island, Taizhou, Zhejiang",35.0,"28.30°N~28.60°N, 121.80°E~122.10°E",Prorocentrum donghaiense,21A29,Taizhou Municipal Marine Disaster Bulletin,0,0
+138,2021,7/10-7/15,"Waters off Xiangshan, Ningbo, Zhejiang",40.0,"29.40°N~29.70°N, 121.90°E~122.20°E",Prorocentrum donghaiense,21A30,Ningbo Municipal Marine Disaster Bulletin,0,0
+139,2021,7/20-7/25,"Waters off Dongtou, Wenzhou, Zhejiang",28.0,"27.80°N~28.10°N, 121.00°E~121.30°E",Skeletonema costatum,21A31,Wenzhou Municipal Marine Disaster Bulletin,0,0
+140,2021,8/1-8/5,"Waters off Liuheng Island, Zhoushan, Zhejiang",32.0,"29.70°N~30.00°N, 122.50°E~122.80°E",Noctiluca scintillans,21A32,Zhoushan Municipal Marine Disaster Bulletin,0,0
+141,2021,8/10-8/15,"Waters off Wenling, Taizhou, Zhejiang",26.0,"28.30°N~28.50°N, 121.50°E~121.80°E",Prorocentrum donghaiense,21A33,Taizhou Municipal Marine Disaster Bulletin,0,0
+142,2021,8/20-8/25,"Waters off Cixi, Ningbo, Zhejiang",38.0,"30.30°N~30.50°N, 121.20°E~121.50°E",Skeletonema costatum,21A34,Ningbo Municipal Marine Disaster Bulletin,0,0
+143,2022,1/1-1/5,"Waters off Xiangshan, Ningbo, Zhejiang",30.0,"29.50°N~29.80°N, 121.90°E~122.20°E",Prorocentrum donghaiense,22A06,Ningbo Municipal Marine Disaster Bulletin,0,0
+144,2024,4/14-4/20,"Su'ao, Liushui and Aoqian waters, Pingtan, Fujian",15.0,"25.40°N~25.70°N, 119.70°E~120.00°E",Prorocentrum donghaiense; Noctiluca scintillans,24F01,Fujian Red Tide Disaster Information (2024 Issue No. 020),0,0
+145,2024,4/23-5/8,"Yujing waters, Fuding, Fujian",12.9,"27.00°N~27.30°N, 120.40°E~120.80°E",Prorocentrum donghaiense,24F02,Fujian Red Tide Disaster Information (2024 Issue No. 029),0,0
+146,2024,4/24-5/9,"Gaoluo waters, Xiapu, Fujian",35.0,"26.60°N~26.90°N, 120.00°E~120.30°E",Skeletonema costatum; Prorocentrum donghaiense,24F03,Fujian Red Tide Disaster Information (2024 Issue No. 029),0,0
+147,2024,5/19-5/28,"North of the Huangqi Peninsula, Lianjiang, Fuzhou, Fujian",4.5,"26.30°N~26.60°N, 119.90°E~120.20°E",Karenia mikimotoi; Prorocentrum donghaiense; Karlodinium digitatum,24F04,Fujian Red Tide Disaster Information (2024 Issues No. 035 and No. 041),0,1
+148,2024,5/22-5/26,"Huangbi'ao to Xianxiang, Xiangshan Bay, Ningbo, Zhejiang",25.0,"29.50°N~29.70°N, 121.65°E~121.95°E",Noctiluca scintillans; Akashiwo sanguinea,24Z01,Ningbo Natural Resources Ecological Restoration and Marine Management Service Center,0,0
+149,2023,4/24-5/10,"Yujing fishing area, Fuding, Fujian",15.0,"27.00°N~27.30°N, 120.40°E~120.80°E",Prorocentrum donghaiense,23F01,Fujian Red Tide Disaster Information (2023 Issue No. 015),0,0
+150,2023,4/27-5/11,"Qida (Ankai) to Houwan (Tailu), Lianjiang, Fuzhou, Fujian",15.0,"26.30°N~26.60°N, 119.90°E~120.20°E",Prorocentrum donghaiense,23F02,Fujian Red Tide Disaster Information (2023 Issues No. 007-015),0,0
+151,2023,4/28-5/20,"Changchun (Gaoluo), Sansha (Gutong) and Funing Bay, Xiapu, Ningde, Fujian",20.0,"26.40°N~26.80°N, 119.80°E~120.20°E",Prorocentrum donghaiense,23F03,"Fujian Red Tide Disaster Information (2023 Issue No. 022, details)",0,0
+152,2023,4/28-4/28,"Aoyu, Nanri Island, Putian, Fujian",12.0,"25.10°N~25.30°N, 119.30°E~119.50°E",Prorocentrum donghaiense,23F04,Fujian Red Tide Disaster Information (2023 Issue No. 007),0,0
+153,2023,5/28-5/30,"Near Doumei fishing port, Longhai District, Zhangzhou, Fujian",2.0,"24.20°N~24.40°N, 118.10°E~118.30°E",Akashiwo sanguinea,23F05,Fujian Red Tide Monitoring and Early-Warning Information (2023 Issue No. 017),0,0
+154,2023,5/29-5/30,"Haicang (Ao'guan) to the west of the Jimei Bridge, Xiamen, Fujian",18.0,"24.45°N~24.55°N, 118.05°E~118.20°E",Skeletonema costatum,23F06,Fujian Red Tide Monitoring and Early-Warning Information (2023 Issue No. 017),0,0
+155,2023,12/18-12/31,"Anhai Bay, Jinjiang, Quanzhou, Fujian",15.0,"24.60°N~24.80°N, 118.60°E~118.80°E",Phaeocystis globosa,23F07,Fujian Red Tide Disaster Information (2023 Issue No. 041),0,0
+156,2022,5/11-6/3,"Yujing (Fuding) to Sansha Gutong (Xiapu), Ningde, Fujian",25.0,"27.00°N~27.20°N, 120.30°E~120.60°E",Prorocentrum donghaiense,22F05,Fujian Red Tide Disaster Information (2022 Issues No. 13-30),0,0
+157,2022,5/12-5/17,"Gaoluo waters, Xiapu, Ningde, Fujian",6.0,"26.40°N~26.60°N, 119.80°E~120.00°E",Prorocentrum donghaiense,22F06,Fujian Red Tide Monitoring and Early-Warning Information (2022 Issue No. 13),0,0
+158,2022,5/11-6/3,"Tongxin Bay to Tailu Houwan, Lianjiang, Fuzhou, Fujian",18.0,"26.30°N~26.60°N, 119.90°E~120.20°E",Prorocentrum donghaiense; Noctiluca scintillans; Karenia mikimotoi,22F07,Fujian Red Tide Disaster Information (2022 Issues No. 13-30),0,0
+159,2022,5/11-5/17,"Near Beidai'ao, Meizhou Island, Putian, Fujian",0.6,"25.05°N~25.15°N, 119.10°E~119.20°E",Prorocentrum donghaiense,22F08,Fujian Red Tide Monitoring and Early-Warning Information (2022 Issue No. 13),0,0
+160,2022,5/11-5/16,"Gangnan, Kengkou and Dongdai, Nanri Island, Putian, Fujian",50.0,"25.10°N~25.30°N, 119.40°E~119.60°E",Prorocentrum donghaiense; Noctiluca scintillans,22F09,Fujian Red Tide Disaster Information (2022 Issue No. 13),0,0
+161,2022,6/2-6/5,"Meilin waters, Shishi, Quanzhou, Fujian",5.0,"24.60°N~24.80°N, 118.60°E~118.90°E",Alexandrium catenella (toxic),22F10,Fujian Red Tide Disaster Information (2022 Issue No. 30),0,1
+162,2022,4/10-4/15,"Dayu Bay to Yuliao, Cangnan, Wenzhou, Zhejiang",533.0,"27.10°N~27.40°N, 120.50°E~120.80°E",Azadinium sp.,22Z01,2022 Zhejiang Provincial Marine Disaster Bulletin,0,0
