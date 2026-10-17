@@ -162,7 +162,7 @@ Metrics follow the IOCCG/NASA SeaBASS validation protocol (linear- and log-space
 
 The dataset itself is deposited at Zenodo:
 
-> Zhu, X. (2026). *A 250-m ocean color dataset with pixel-level chlorophyll-a annotations from GOCI-2 (2021–2024)* [Data set]. Zenodo. <https://doi.org/10.5281/zenodo.21831012>
+> Zhu, X., Chen, P., Li, W., Zhou, H., Xie, X., He, Z., Lu, Y., & Le, C. (2026). *A 250-m ocean color dataset with pixel-level chlorophyll-a annotations from GOCI-2 (2021–2024)* [Data set]. Zenodo. <https://doi.org/10.5281/zenodo.21831012>
 
 Released under **CC BY 4.0**. Users must cite both this paper and the dataset DOI.
 
@@ -174,4 +174,4 @@ This code is released under the **MIT License**.
 
 If you use this code, please cite:
 
-> Zhu, X. (2026). A 250-m ocean color dataset with pixel-level chlorophyll-*a* annotations from GOCI-2 (2021–2024). *Scientific Data*. [DOI to be assigned]
+> Zhu, X., Chen, P., Li, W., Zhou, H., Xie, X., He, Z., Lu, Y., & Le, C. (2026). *Code for: A 250-m ocean color dataset with pixel-level chlorophyll-a annotations from GOCI-2 (2021–2024)*. Zenodo. <https://doi.org/10.5281/zenodo.23414227>
