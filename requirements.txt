@@ -1,0 +1,10 @@
+# Dataset construction (data_processing/)
+numpy
+pandas
+scipy
+xarray
+h5py
+tqdm
+
+# Baseline training & evaluation (data_validation/)
+torch
